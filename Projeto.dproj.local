@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/22 19:11:18.000.697,=C:\Users\rosat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/22 19:13:16.000.307,=C:\Users\rosat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/08/22 19:16:05.000.891,C:\Projetos\Trabalho\UMain.dfm=C:\Users\rosat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/22 19:16:05.000.891,C:\Projetos\Trabalho\UMain.pas=C:\Users\rosat\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/22 19:16:14.000.131,C:\Projetos\Trabalho\Projeto.dproj=C:\Users\rosat\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/22 19:16:55.000.144,=C:\Projetos\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/08/22 19:21:39.000.038,C:\Projetos\Trabalho\UPro000.dfm=C:\Projetos\Trabalho\Unit1.dfm</Transaction>
+    <Transaction>2024/08/22 19:21:39.000.038,C:\Projetos\Trabalho\UPro000.pas=C:\Projetos\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:19:08.000.270,=C:\Projetos\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:19:28.000.203,C:\Projetos\Trabalho\Unit1.dfm=C:\Projetos\Trabalho\UDmCad.dfm</Transaction>
+    <Transaction>2024/08/23 22:19:28.000.203,C:\Projetos\Trabalho\Unit1.pas=C:\Projetos\Trabalho\UDmCad.pas</Transaction>
+    <Transaction>2024/08/23 22:44:48.000.700,=C:\Projetos\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/08/23 22:45:58.000.315,C:\Projetos\Trabalho\Unit1.dfm=C:\Projetos\Trabalho\UPro001.dfm</Transaction>
+    <Transaction>2024/08/23 22:45:58.000.315,C:\Projetos\Trabalho\Unit1.pas=C:\Projetos\Trabalho\UPro001.pas</Transaction>
+    <Transaction>2024/10/05 23:24:30.000.127,=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/05 23:25:08.000.107,C:\Sistemas\Trabalho\Unit1.pas=C:\Sistemas\Trabalho\UPass.pas</Transaction>
+    <Transaction>2024/10/05 23:25:08.000.107,C:\Sistemas\Trabalho\Unit1.dfm=C:\Sistemas\Trabalho\UPass.dfm</Transaction>
+    <Transaction>2024/10/05 23:56:11.000.642,=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/05 23:58:06.000.985,C:\Sistemas\Trabalho\UProd00.dfm=C:\Sistemas\Trabalho\Unit1.dfm</Transaction>
+    <Transaction>2024/10/05 23:58:06.000.985,C:\Sistemas\Trabalho\UProd00.pas=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/06 01:12:06.000.436,=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/06 01:14:52.000.723,C:\Sistemas\Trabalho\UProd01.dfm=C:\Sistemas\Trabalho\Unit1.dfm</Transaction>
+    <Transaction>2024/10/06 01:14:52.000.723,C:\Sistemas\Trabalho\UProd01.pas=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 19:16:48.000.289,=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 19:18:25.000.729,C:\Sistemas\Trabalho\UVen00.pas=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 19:18:25.000.729,C:\Sistemas\Trabalho\UVen00.dfm=C:\Sistemas\Trabalho\Unit1.dfm</Transaction>
+    <Transaction>2024/10/15 19:42:12.000.688,=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+    <Transaction>2024/10/15 19:44:24.000.991,C:\Sistemas\Trabalho\UVen01.dfm=C:\Sistemas\Trabalho\Unit1.dfm</Transaction>
+    <Transaction>2024/10/15 19:44:24.000.991,C:\Sistemas\Trabalho\UVen01.pas=C:\Sistemas\Trabalho\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UDmCad.pas"/>
+    <File Path="UDmCad.dfm"/>
+    <File Path="UMain.pas"/>
+    <File Path="UMain.dfm"/>
+    <File Path="UPass.pas"/>
+    <File Path="UPass.dfm"/>
+    <File Path="UPro000.pas"/>
+    <File Path="UPro000.dfm"/>
+    <File Path="UPro001.pas"/>
+    <File Path="UPro001.dfm"/>
+    <File Path="UProd00.pas"/>
+    <File Path="UProd00.dfm"/>
+    <File Path="UProd01.pas"/>
+    <File Path="UProd01.dfm"/>
+    <File Path="UVen00.pas"/>
+    <File Path="UVen00.dfm"/>
+    <File Path="UVen01.pas"/>
+    <File Path="UVen01.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
